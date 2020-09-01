@@ -1,6 +1,6 @@
 ### Wow~ 👋
 
-- I'm a font-end development engineer
+- 🤔 I'm a font-end development engineer
 - 🔭 I’m currently working in the home stay industry
 - 🌱 I’m currently learning Typescript、Node、Vue3...
 - 📫 How to reach me: [www.chenfx.com.cn](https://www.chenfx.com.cn)
